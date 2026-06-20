@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "2.7.0"
+  version: "2.8.0"
 
 package:
   name: cadquery
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/CadQuery/cadquery/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 4331323c1d0c7c6f55abe33b22def1eef83d7c45e594c13a3c352a175ddfe19d
+  sha256: 91ede3f8faa1af8e3c44f4ea9c4d92e5e98acb390ac6df43f3bb08d2fbb75391
 
 build:
   number: 0
